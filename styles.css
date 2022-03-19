@@ -6,7 +6,7 @@ background: linear-gradient(to right, #9b7c15, #a71042);
 h1 {
 
   text-align: center;
-  color: rgb(98, 219, 235);
+  color: rgb(214, 211, 30);
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 100px;
@@ -19,7 +19,7 @@ h2, h3 {
 
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  color: rgb(91, 216, 216);
+  color: rgb(221, 224, 46);
   font-weight: 400;
   font-size: 60px;
   text-transform: uppercase;
@@ -30,8 +30,8 @@ h2, h3 {
 p {
 
   background: linear-gradient(to right, #c7b61d, #ce1c05);
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 400px;
+  margin-right: 400px;
   font-size: 60px;
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
