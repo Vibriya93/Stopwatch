@@ -1,0 +1,67 @@
+body {
+background: linear-gradient(to right, #9b7c15, #a71042);
+}
+
+/*Main headline styling */
+h1 {
+
+  text-align: center;
+  color: rgb(98, 219, 235);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 100px;
+  text-transform: uppercase;
+
+}
+
+/* Set styling for Headlines */
+h2, h3 {
+
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(91, 216, 216);
+  font-weight: 400;
+  font-size: 60px;
+  text-transform: uppercase;
+
+}
+
+/* Sets styling for the 00:00:00 Span */
+p {
+
+  background: linear-gradient(to right, #c7b61d, #ce1c05);
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: lightgrey;
+
+}
+
+/* Centers the buttons*/
+.buttonsele {
+
+  height: 34px;
+  padding-top: 1px;
+  padding-bottom: 0px;
+  text-align: center;
+
+}
+
+/*Button's CSS*/
+button {
+
+  border: none;
+  background: rgb(173, 173, 9);
+  font-size: 25px;
+  letter-spacing: 8px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
